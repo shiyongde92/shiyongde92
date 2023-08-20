@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @shiyongde92
+- 👀 I’m interested in Computer Science student passionate about Racket. 
+- 🌱 I’m currently learning Intrigued by language-oriented programming and system design.
